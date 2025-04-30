@@ -26,11 +26,11 @@ Welcome to the Job Portal Website project! This is a full-featured platform wher
 
 > (Customize this section based on your actual tech stack)
 
-- **Frontend**: HTML, CSS, JavaScript / React / Vue / Angular
-- **Backend**: Node.js / Django / Flask / Laravel
-- **Database**: MongoDB / MySQL / PostgreSQL
-- **Authentication**: JWT / OAuth / Firebase Auth
-- **Hosting**: Vercel / Netlify / Heroku / AWS
+- **Frontend**: HTML, CSS, JavaScript / React 
+- **Backend**: Node.js 
+- **Database**: MongoDB 
+- **Authentication**: JWT / ClerkAuth 
+- **Hosting**: Vercel / Netlify 
 
 ## 📂 Project Structure
 
